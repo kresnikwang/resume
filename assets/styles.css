@@ -5208,7 +5208,7 @@ a.fade-link-reversed:hover, .fade-link-reversed:hover {
 }
 
 #instafeed {
-    padding: 0 40px
+    padding: 0 10px
 }
 
 .backface-hidden, .square, .square img, .square .caption {
@@ -5614,7 +5614,7 @@ ul.list-swatches li:hover .swatch-label {
     }
 
     #instafeed {
-        padding: 0 20px
+        padding: 0 5px
     }
 
     .textsmall {
@@ -5718,7 +5718,7 @@ ul.list-swatches li:hover .swatch-label {
     -webkit-box-shadow: 0 0 10px #888;
     -moz-box-shadow: 0 0 10px #888;
     box-shadow: 0 0 10px #888;
-    z-index: 10;
+    z-index: 20;
 }
 
 .ribbon a {
@@ -5732,5 +5732,5 @@ ul.list-swatches li:hover .swatch-label {
     text-decoration: none;
     /* shadow */
     text-shadow: 0 0 5px #444;
-    z-index: 10;
+    z-index: 20;
 }

@@ -77,17 +77,6 @@ $(document).ready(function () {
     $.ajaxSetup({cache: !1});
     if ($("#works").length)var e = $("#works").offset().top;
 
-    $(".columns").on("click", ".work-item", function () {
-        function n() {
-            $(".mdc").load("html/projects/" + e + ".html").fadeIn(100, function () {
-            })
-        }
-
-        var e = $(this).attr("id");
-        t();
-        n()
-    });
-
     $(".modal").on("click", ".modal-close-trigger", function () {
         n()
     })
