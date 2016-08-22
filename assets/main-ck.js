@@ -263,7 +263,7 @@ var feed = new Instafeed({
     get: "user",
     userId: 3733380,
     accessToken: "3733380.cf0499d.edbd0e81c60246379393c506013e09f8",
-    clientId: "45b307547f2a4d82a61126963110248d",
+    clientId: "83430318c59a47bfa0f4b26de58d40fb",
     resolution: "standard_resolution",
     limit: 12,
     sortBy: "random",
