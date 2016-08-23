@@ -262,7 +262,7 @@ $(document).ready(function () {
 var feed = new Instafeed({
     get: "user",
     userId: 3733380,
-    accessToken: "3733380.cf0499d.edbd0e81c60246379393c506013e09f8",
+    accessToken: "3733380.1677ed0.b2e4357b8a4f48e889e28b6fa996fbe4",
     clientId: "83430318c59a47bfa0f4b26de58d40fb",
     resolution: "standard_resolution",
     limit: 12,
