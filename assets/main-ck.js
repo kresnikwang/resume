@@ -269,7 +269,7 @@ var feed = new Instafeed({
     sortBy: "random",
     template: '<div class="large-3 medium-6 small-12 columns nopadding"><a href="{{link}}" target="_blank" class="square"><img src="{{image}}" /><div class="caption"><p>{{caption}}</p></div></a></div>'
 });
-feed.run();
+//feed.run();
 
 $(document).ready(function () {
     $(".js-tab-switch").on("click", function () {
